@@ -83,30 +83,13 @@ SuperMart required a centralized dashboard to monitor sales, understand profitab
 
 ## 📸 Dashboard Preview
 
-![SuperMart Dashboard](https://github.com/your-username/your-repo/blob/main/Snapshot%20of%20super%20mart%20dashboard.png)
-
----
-
-## 📁 Project File
-
-- `SuperMart_Sales_Dashboard.pbit` – Power BI Template file to reuse and explore the dashboard on your local machine.
-
----
-
-## 📌 How to Use
-
-1. Open Power BI Desktop.
-2. Load the `SuperMart_Sales_Dashboard.pbit` file.
-3. Connect to a dataset (or use the sample data).
-4. Interact with filters, visuals, and map to analyze sales patterns.
-
----
+![SuperMart Dashboard](https://github.com/atulrahul07/Super-Mart-dashboard/blob/main/Snapshot%20of%20super%20mart%20dashboard.png)
 
 ## 📬 Contact
 
 For questions or collaborations, feel free to reach out:  
-**📧 yourname@example.com**  
-**🔗 [LinkedIn](https://linkedin.com/in/yourprofile)**
+**📧 atulrahul704@gmail.com**  
+**🔗 [LinkedIn](https://www.linkedin.com/in/atul-kumar-pal/)**
 
 ---
 
